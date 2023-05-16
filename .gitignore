@@ -1,0 +1,30 @@
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.pyc
+
+# Ignore environment and dependency files
+venv/
+env/
+*.env
+
+# Ignore database files
+*.db
+
+# Ignore Flask migration files
+migrations/
+
+# Ignore logs and temporary files
+*.log
+*.swp
+*.swo
+*~
+
+# Ignore generated files and folders
+__pycache__/
+dist/
+build/
+*.egg-info/
+
+# Ignore Flask instance folder
+instance/
