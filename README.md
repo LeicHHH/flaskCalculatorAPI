@@ -23,7 +23,7 @@ After cloning, navigate to the flaskCalculatorAPI directory:
     ```
     cd flaskCalculatorAPI
     ```
-
+    
 3. Install the requirements
 
     This project uses a number of Python packages. You can install them using pip with the following command:
