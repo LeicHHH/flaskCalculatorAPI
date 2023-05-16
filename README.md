@@ -13,14 +13,14 @@ This project contains the Flask Calculator API. Follow the instructions below to
 
    Open your terminal and run the following command:
    
-   ```bash
+   ```
    git clone https://github.com/LeicHHH/flaskCalculatorAPI.git
    ```
 2. Navigate to the project directory
 
 After cloning, navigate to the flaskCalculatorAPI directory:
 
-    ```bash
+    ```
     cd flaskCalculatorAPI
     ```
 
